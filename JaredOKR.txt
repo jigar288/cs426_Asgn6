@@ -1,0 +1,6 @@
+Schedule and deliverable:
+
+Find Assests -- Tue by 12pm (estimate: 1 hr)
+draft code for grid-based movement (collaborative) -- Tue by 10pm (estimate: 5 hr)
+Level Design collaboration -- Wed by 12pm (2 hr) 
+draft code for ending level -- Wed by 5pm (1 hr)

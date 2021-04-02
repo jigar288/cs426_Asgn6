@@ -1,0 +1,5 @@
+Schedule and Deliverable:
+  - Find assets - Tuesday by 12pm (estimate: 3hrs)
+  - Player object - Tuesday by 5pm (estimate: 1hr)
+  - Draft code for camera rotation - Wednesday by 4pm (estimate: 1hr)
+  - Fish collision and score - Wednesday by 4pm (estimate: 2hrs)
